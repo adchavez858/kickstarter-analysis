@@ -13,4 +13,5 @@ For the second deliverable we organized our data based on the goal range, and ta
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106290364/171569736-6994ff9e-ef97-4338-b89d-4035e5bcab26.png)
 
 ##Conclusion
+
 After conducting our analysis, we are able to give Louise some useful information. We are able to tell her that the most impacted months with the most total number of play writes are April-August, so maybe she might want to take this into consideration. We can also inform her that May and June are the Peak success months for theater. December has the least amount of successes, and October has the most failed. She may want to launch in May or June. We can also advise her that the projects with the highest success rate were those who’s goals were between 1000 to 4999, so maybe she might want to consider lowering her budget since there is nothing to suggest more money yields a higher success rate
